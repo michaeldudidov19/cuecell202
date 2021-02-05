@@ -1,0 +1,4 @@
+baseURL = "https://aboutcar-problem334.vercel.app"
+languageCode = "en-us"
+title = "Acura RDX a Spec Review"
+theme = "hugo-theme-minos"
